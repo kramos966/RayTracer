@@ -1,0 +1,12 @@
+name = "raytracer"
+version = "0.1.0"
+license = "license"
+author = "kramos966"
+maintainer = "kramos966@gmail.com"
+copyright = "Copyright 2023, kramos966"
+[build]
+auto-executables = true
+auto-tests = true
+auto-examples = true
+[install]
+library = false
